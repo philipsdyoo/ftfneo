@@ -1,0 +1,8 @@
+[API]
+api_key = EXAMPLE12345
+
+[DATABASE]
+host = HostnameHere
+user = DBUserHere
+password = DBUserPasswordHere
+database = DBNameHere
